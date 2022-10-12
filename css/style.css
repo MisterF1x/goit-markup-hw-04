@@ -289,7 +289,7 @@ img {
   width: 44px;
   height: 44px;
   border-radius: 50%;
-  color: #afb1b8;
+  color: var(--icon-color);
 }
 .social .icon {
   width: 20px;
